@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lareb</h1>
-<h3 align="center">An Enthusiastic Full Stack Developer Leveraging Java, Data Science, and Cutting-Edge Web Technologies</h3>
+<h3 align="center">Passionate Full Stack Developer Thriving in Blockchain, Generative AI, and Advanced Web Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lareb1&label=Profile%20views&color=0e75b6&style=flat" alt="lareb1" /> </p>
 
